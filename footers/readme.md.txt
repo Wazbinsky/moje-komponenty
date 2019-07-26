@@ -1,0 +1,1 @@
+Simple footer uses position absolute, its only example
